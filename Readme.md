@@ -108,10 +108,7 @@ if(!address.startWith("http:")){
  }
  ```
 
-
 ## 참고 문제
 스트링을 활용한 예제
-1. Anagram
-```java
-<아나그램>
-```
+1. [숫자 counting 문제](https://github.com/Lee-KyungSeok/CountNumber)
+2. [Anagram 알고리즘](https://github.com/Lee-KyungSeok/AnagramAlgorithm)
